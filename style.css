@@ -1,0 +1,14 @@
+body{height:100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+
+}
+.container{
+    background-color: gray;
+    align-self: center;
+}
+.btn{ margin-bottom: auto;
+    
+}
